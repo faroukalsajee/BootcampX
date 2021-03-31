@@ -24,4 +24,5 @@
 * start_date: The students' start date of the Bootcamp
 * end_date: The students' end date of the Bootcamp
 * cohort_id: The id of the cohort that the student is enrolled in
-### if you reached until here feel free to get in touch at faroukalsajee@gmail.com
+---
+### Feel free to get in touch at faroukalsajee@gmail.com
